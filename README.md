@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/magus-lama-8968a03b5/">LinkedIn</a>
+  <a href="https://ae.linkedin.com/in/magus-lama-8968a03b5">LinkedIn</a>
   ·
   <a href="https://x.com/TenzyXzy">X</a>
   ·
@@ -96,7 +96,7 @@ If the work involves making AI systems more useful, reliable, understandable, or
 ## Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/magus-lama-8968a03b5/">
+  <a href="https://ae.linkedin.com/in/magus-lama-8968a03b5">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/TenzyXzy">
