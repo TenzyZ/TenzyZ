@@ -12,7 +12,7 @@
 
 ## About
 
-I’m Tenzy, an early-career applied AI builder focused on turning LLMs into useful systems — not just demos.
+I’m Tenzy, an early-career applied AI builder focused on turning LLMs into useful systems, not just demos.
 
 My work centers on **agentic workflows, retrieval, memory, local AI, tool use, context management, and human-controlled automation**. I’m also strengthening the software-engineering fundamentals behind those systems so I can understand, build, debug, and evaluate them end to end.
 
