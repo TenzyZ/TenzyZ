@@ -2,62 +2,22 @@
   <img src="./assets/profile-banner.png" alt="Tenzy Lama, Applied AI Builder" width="100%" />
 </p>
 
-## About
+I'm Tenzy. I build applied AI systems, coding agent tooling, and evaluation harnesses, with a focus on tool use, context, and verification.
 
-I am Tenzy. I build applied AI systems: agent tooling, coding agent infrastructure, and evaluation harnesses.
+**[→ Explore my work at tenzy.dev](https://tenzy.dev)**
 
-Most of my work circles one question. When a person and a model are working on the same thing, who is allowed to change what, and what counts as proof that it worked? In my projects that turns into explicit tool contracts, authority boundaries, and status that separates what is designed from what is actually built.
+Projects, experiments, evaluations, and more about my work.
 
-I work mainly in Python and TypeScript. I use coding agents heavily as part of the workflow, not as a way around understanding it.
+## Selected Work
 
-## Featured Work
+- **[DSH Forge](https://github.com/TenzyZ/deepseek-harness-forge)**: An unofficial community fork of DeepSeek Harness for practical harness experimentation, developer tooling, and desktop improvements.
+- **[WebMCP Course Planner](https://github.com/TenzyZ/webmcp-course-planner)**: A course planner where people and agents share live application state through page-native WebMCP tools.
+- **[Evidline](https://github.com/TenzyZ/Evidline)**: A local-first tool in development for coding agent context and evidence, with checks on proposed state changes against scope, freshness, and project rules.
 
-### WebMCP Course Planner
+## Technical Focus
 
-A university course planner where a student and an AI agent work on the same live page state. The agent calls two page registered WebMCP tools, `get_course_plan` and `set_course_plan`, instead of clicking through the interface. The README documents the tool contract, the error behavior for invalid input, and a table of which state the student owns and which the agent can only read.
+LLM Systems · Coding Agents · Agent Harnesses · Evals · MCP / WebMCP · Python · TypeScript
 
-Built for the OpenAI WebMCP Challenge. TypeScript, React, Vite, MIT licensed.
+## Elsewhere
 
-Repository: [https://github.com/TenzyZ/webmcp-course-planner](https://github.com/TenzyZ/webmcp-course-planner)
-
-Live demo: [https://webmcp-course-planner.vercel.app](https://webmcp-course-planner.vercel.app)
-
-### Evidline
-
-A local first tool for AI coding agents. It keeps project context and evidence with clear source information, and it checks a proposed change against scope, evidence, freshness, and project rules before that change is treated as accepted project state.
-
-Two ideas drive it. Permission to run a tool is not the same as authorization to change a repository, and executed is not the same as verified. The mutation decision engine is implemented and returns allow, ask, or block along with the reason and the smallest safe next step. Design decisions are recorded as ADRs.
-
-The repository is explicit about its own status. Some parts are built, some are only designed, and no package or release has been published yet.
-
-Python 3.11 or later, zero runtime dependencies, MIT licensed.
-
-Repository: [https://github.com/TenzyZ/Evidline](https://github.com/TenzyZ/Evidline)
-
-## Engineering Focus
-
-* Agentic systems and tool contracts, including MCP and WebMCP
-* Coding agent infrastructure: context, evidence, scope, and approval
-* LLM evaluation: frozen methodology, reproducible harnesses, honest reporting
-* Human and AI collaboration over shared application state
-* Python, TypeScript, React, Git and GitHub
-* Building alongside Claude Code and OpenAI Codex
-
-## How I Build
-
-* Write down the scope and the boundary before writing code.
-* Keep human authority explicit for state the person owns.
-* Track what was proposed, what actually ran, and what was verified as three separate things.
-* Prefer fresh evidence over recollection. A claim is not a fact until something checks it.
-* Say plainly what is built and what is only designed.
-
-## Private Work
-
-I have an ongoing private project called AIRI, a local first desktop assistant. It is in active development, not a finished system, and there is nothing public to inspect yet. It will show up here when there is.
-
-I am also still closing gaps, mostly deeper Python and systems fundamentals and more rigorous evaluation practice.
-
-## Connect
-
-* LinkedIn: [https://ae.linkedin.com/in/magus-lama-8968a03b5](https://ae.linkedin.com/in/magus-lama-8968a03b5)
-* X: [https://x.com/TenzyXzy](https://x.com/TenzyXzy)
+[LinkedIn](https://www.linkedin.com/in/tenzy-lama-8968a03b5/) · [YouTube](https://youtube.com/@heytenzy) · [X](https://x.com/TenzyXZy)
